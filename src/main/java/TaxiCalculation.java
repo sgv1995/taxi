@@ -1,4 +1,4 @@
-public class taxiCalculation {
+public class TaxiCalculation {
     double tripOptions(double distance,
                        int landingAmount,
                        int costOneKilometer,
